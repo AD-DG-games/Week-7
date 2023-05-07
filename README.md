@@ -1,4 +1,6 @@
 # Unity week 5: Two-dimensional scene-building and path-finding
+## ממשנו את שאלה 1 בסצנה OurScenes קישור - "https://dvirgev.itch.io/week7-part-a"
+## ממשנו את שאלה 2 בסצנה d-tilemap-100-player קישור - "https://dvirgev.itch.io/week7-part-b"
 
 A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
 and how to do path-finding using the BFS algorithm.
